@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+}
+body{
+    background-color: whitesmoke;
+}
+p{
+    color: red;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.topnav a.active {
+    color: purple;
+  }
